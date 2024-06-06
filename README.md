@@ -33,3 +33,10 @@ JavaScript
 Node.js
 Express.js (para el servidor)
 JSZip (para la descarga de archivos)
+
+
+Implementaciones a futuro:
+
+Colaboración en tiempo real: Trabaja simultáneamente con otros desarrolladores en el mismo proyecto, viendo los cambios en tiempo real y comunicándote dentro de la misma plataforma.
+Análisis de código inteligente: Recibe sugerencias y correcciones automáticas mientras escribes, basadas en análisis avanzados y aprendizaje automático, para mejorar la calidad y eficiencia de tu código.
+Soporte para más lenguajes de programación: Expande tus proyectos con soporte adicional para una variedad más amplia de lenguajes de programación, permitiéndote trabajar en diferentes tecnologías y plataformas dentro del mismo editor.
