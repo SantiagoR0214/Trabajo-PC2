@@ -39,7 +39,7 @@ Este proyecto tiene como objetivo proporcionar una herramienta donde los usuario
 npm start
 ```
 
-Tecnologías Utilizadas
+# Tecnologías Utilizadas
 HTML
 CSS
 JavaScript
